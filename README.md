@@ -1,3 +1,3 @@
-[![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=narimanmani)](https://github.com/narimanmani/github-readme-stats)
+[![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=narimanmani)])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanmani)](https://github.com/narimanmani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanmani)])
